@@ -2,11 +2,11 @@ Laravel Plugin for PHPStorm
 -------------
 
 ## Links
- * Plugin url : http://plugins.jetbrains.com/plugin/7532
+ * Plugin url: http://plugins.jetbrains.com/plugin/7532
 
 ## Install
- * Install plugin and active it per Project under "Settings > Lavarel Plugin"
- * Use "Laravel IDE Helper Generator" to generate ide classes
+ * Install plugin and active it per Project under "Settings > Laravel Plugin"
+ * Use "[Laravel IDE Helper Generator](https://github.com/barryvdh/laravel-ide-helper)" to generate ide classes
 
 ## Features
  * PHP/Route: Controller completion and goto
